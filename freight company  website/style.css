@@ -1,0 +1,40 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.card-group {
+    position: absolute;
+    top: 290px;
+}
+
+.part1 {
+    padding-top: 6rem;
+}
+
+.category_section {
+    display: block;
+}
+
+.category_section p {
+    margin-bottom: 0px;
+}
+
+
+.category_container {
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.category {
+    display: block;
+}
+
+#image_fist {
+    height: 20rem;
+    width: 16rem;
+    border-radius: 15%;
+}
